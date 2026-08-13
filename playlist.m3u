@@ -2,10 +2,8 @@
 https://www.image2url.com/r2/default/videos/1786568196357-438fedc9-5822-43c0-a93c-c59a4f91ba25.mp4
 #EXTINF:-1,beIN Sports HABER HD
 http://vipduman.xyz:80/live/gulcebi/fethi1900/453404.ts
-#EXTINF:-1,TR:BEINSPORTS 1 HD (50FPS)
-http://superiptv21.com/live/AywWXivkga/2F7BZYEZE4/83fef809-135f-4ee5-9e13-5eb6f5d5231e.m3u
-#EXTINF:-1,TR:BEINSPORTS 4K (MAC ZAMANI)
-http://superiptv21.com/live/AywWXivkga/2F7BZYEZE4/553f6670-08c6-412f-b7c8-51ef5ec5a95d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 1 FHD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports1.png" group-title=" TR ✪ BEIN SPORTS +",BEIN SPORT 1 FHD
+http://storage.vericen.ru:8080/L3FZLzJVUnBJK1VUNFNCa24xcTFCRlVzR3JjbStCT1FjMUZYdDFveTBNc0ErQVk3N1BWKzhIS3NSMzRjQS8rYw
 #EXTINF:-1,beIN Sports 4K
 http://vipduman.xyz:80/live/gulcebi/fethi1900/453901.ts
 #EXTINF:-1,TR: be*IN SPORTS 1 PREMIUM
@@ -36,11 +34,3 @@ https://www.image2url.com/r2/default/videos/1786597272712-92b63129-5076-478e-aca
 http://eurvip.xyz:2095/fth678678/sbb1708gg00/71749
 #EXTINF:-1,TR: S-SPORT 1 HD
 http://eurvip.xyz:2095/fth678678/sbb1708gg00/13736
-#EXTINF:-1,TR: S-SPORT 1 SD
-http://eurvip.xyz:2095/fth678678/sbb1708gg00/96209
-#EXTINF:-1,TR: S-SPORT 2 FHD
-http://eurvip.xyz:2095/fth678678/sbb1708gg00/197161
-#EXTINF:-1,TR: S-SPORT 2 HD
-http://eurvip.xyz:2095/fth678678/sbb1708gg00/197162
-#EXTINF:-1,TR: S-SPORT 2 SD
-http://eurvip.xyz:2095/fth678678/sbb1708gg00/197163
