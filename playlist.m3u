@@ -2,10 +2,6 @@
 https://www.image2url.com/r2/default/videos/1786568196357-438fedc9-5822-43c0-a93c-c59a4f91ba25.mp4
 #EXTINF:-1,beIN Sports HABER HD
 http://vipduman.xyz:80/live/gulcebi/fethi1900/453404.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 1 FHD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports1.png" group-title=" TR ✪ BEIN SPORTS +",BEIN SPORT 1 FHD
-http://storage.vericen.ru:8080/L3FZLzJVUnBJK1VUNFNCa24xcTFCRlVzR3JjbStCT1FjMUZYdDFveTBNc0ErQVk3N1BWKzhIS3NSMzRjQS8rYw
-#EXTINF:-1,beIN Sports 4K
-http://vipduman.xyz:80/live/gulcebi/fethi1900/453901.ts
 #EXTINF:-1,TR: be*IN SPORTS 1 PREMIUM
 http://4kx8k.xyz:2095/cfr2708tv2/cff2810cc00/209477
 #EXTINF:-1,|TR| beIN Sports 1 (TTNET ÖZEL)
@@ -20,6 +16,8 @@ http://webmaximtv.shop:8080/Yusufbey56/8454sae342/98925
 http://webmaximtv.shop:8080/Yusufbey56/8454sae342/126272
 #EXTINF:-1,|TR| beIN Sports 1 VIP H265
 http://webmaximtv.shop:8080/Yusufbey56/8454sae342/190072
+#EXTINF:-1,beIN Sports 4K
+http://vipduman.xyz:80/live/gulcebi/fethi1900/453901.ts
 #EXTINF:-1,|TR| beIN Sports 1 4K [Feed]
 http://webmaximtv.shop:8080/Yusufbey56/8454sae342/35650
 #EXTINF:-1,|TR| beIN Sports 1 8K [Feed]
